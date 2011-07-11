@@ -1,0 +1,15 @@
+Requisitos
+
+[+] Aparecer do nada uma tela azul da morte no windows Phone.
+[+] Pedir Ctrl+Alt+Del para sair da tela azul.
+[+] O usuário pode configurar para o aplicativo abrir na inicialização do SO.
+
+[#] Deve funcionar em background, já que WP7 suporta multitasking de verdade.
+
+[?] Audio de fundo
+[?] Twittar "Meu Windows Phone 7 acaba de entrar no modo 'TELA AZUL DA MORTE' via BSOD App®."
+
+
+[+] => RF
+[#] => RNF
+[?] => PossÎáÎõÎáveis requisitos
